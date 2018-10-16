@@ -1,0 +1,5 @@
+c:\users\roka-pc\documents\visual studio 2012\Projects\CuisinePos task'2'\CuisinePos task'2'\bin\CuisinePos task'2'.dll
+c:\users\roka-pc\documents\visual studio 2012\Projects\CuisinePos task'2'\CuisinePos task'2'\bin\CuisinePos task'2'.pdb
+c:\users\roka-pc\documents\visual studio 2012\Projects\CuisinePos task'2'\CuisinePos task'2'\obj\Debug\CuisinePos task'2'.csprojResolveAssemblyReference.cache
+c:\users\roka-pc\documents\visual studio 2012\Projects\CuisinePos task'2'\CuisinePos task'2'\obj\Debug\CuisinePos task'2'.dll
+c:\users\roka-pc\documents\visual studio 2012\Projects\CuisinePos task'2'\CuisinePos task'2'\obj\Debug\CuisinePos task'2'.pdb
